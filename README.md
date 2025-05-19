@@ -1,71 +1,41 @@
-# Getting Started with Create React App
+# 🍋 Little Lemon - Capstone Project (Meta Front-End Developer Certificate)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenue dans le projet **Little Lemon Restaurant Web App**, réalisé dans le cadre du Capstone du programme Meta Front-End Developer.
 
-## Available Scripts
+## 📌 Présentation
 
-In the project directory, you can run:
+Ce projet a pour objectif de construire une application web responsive en React pour le restaurant fictif **Little Lemon**. L'application permet notamment la réservation de tables, la consultation du menu, et bien d'autres fonctionnalités.
 
-### `npm start`
+C'est un projet de synthèse, combinant toutes les compétences acquises dans le programme :
+- HTML sémantique
+- CSS (grilles, flexbox, responsive design)
+- JavaScript
+- React (composants, props, state, hooks)
+- UX/UI Design
+- Tests unitaires
+- Accessibilité
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Technologies utilisées
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React (Create React App)
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Git & GitHub
+- Figma (wireframing et prototypage)
+- Jest (tests unitaires)
 
-### `npm test`
+## 🧠 Fonctionnalités
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 📅 Réservation de table via un formulaire dynamique
+- 🧩 Architecture modulaire en composants React
+- 🧪 Tests unitaires de composants clés
+- ♿ Design accessible et responsive
+- 🎨 Application d’un design system cohérent
 
-### `npm run build`
+## 🚀 Lancer le projet en local
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# little-lemon-capstone
+```bash
+git clone https://github.com/ton-utilisateur/little-lemon.git
+cd little-lemon
+npm install
+npm start
