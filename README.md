@@ -43,15 +43,6 @@ It’s a synthesis project that brings together all the skills learned throughou
 - ♿ Accessible and responsive design (HTML5 + ARIA)
 - 🎨 Consistent design system implementation
 
-### 🚀 Run the Project Locally
-
-```bash
-git clone https://github.com/your-username/little-lemon.git
-cd little-lemon
-npm install
-npm start
-
-
 ---
 
 ## 🇫🇷 Version française
