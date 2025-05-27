@@ -1,41 +1,52 @@
 # 🍋 Little Lemon - Capstone Project (Meta Front-End Developer Certificate)
 
-Bienvenue dans le projet **Little Lemon Restaurant Web App**, réalisé dans le cadre du Capstone du programme Meta Front-End Developer.
+## 🌍 English Version
 
-## 📌 Présentation
+Welcome to the **Little Lemon Restaurant Web App** project, built as the Capstone for the **Meta Front-End Developer** program.
 
-Ce projet a pour objectif de construire une application web responsive en React pour le restaurant fictif **Little Lemon**. L'application permet notamment la réservation de tables, la consultation du menu, et bien d'autres fonctionnalités.
+### 📌 Overview
 
-C'est un projet de synthèse, combinant toutes les compétences acquises dans le programme :
-- HTML sémantique
-- CSS (grilles, flexbox, responsive design)
-- JavaScript
-- React (composants, props, state, hooks)
-- UX/UI Design
-- Tests unitaires
-- Accessibilité
+This project aims to develop a **responsive React web application** for the fictional *Little Lemon* restaurant.  
+The application allows users to:
 
-## 🛠️ Technologies utilisées
+- Book tables online
+- View the restaurant menu
+- And more features designed to enhance the user experience
+
+It’s a synthesis project that brings together all the skills learned throughout the program.
+
+### 🧰 Skills Applied
+
+- ✅ Semantic HTML
+- ✅ CSS (Flexbox, Grid, Responsive Design)
+- ✅ Modern JavaScript (ES6+)
+- ✅ React (components, props, state, hooks, routing)
+- ✅ UX/UI Design
+- ✅ Web Accessibility (ARIA, labels, keyboard navigation)
+- ✅ Unit Testing with Jest
+- ✅ Version control with Git & GitHub
+
+### 🛠️ Technologies Used
 
 - React (Create React App)
-- JavaScript (ES6+)
-- HTML5 & CSS3
+- JavaScript
+- HTML5 / CSS3
+- Jest (unit testing)
 - Git & GitHub
-- Figma (wireframing et prototypage)
-- Jest (tests unitaires)
+- Figma (wireframing and prototyping)
 
-## 🧠 Fonctionnalités
+### 🧠 Key Features
 
-- 📅 Réservation de table via un formulaire dynamique
-- 🧩 Architecture modulaire en composants React
-- 🧪 Tests unitaires de composants clés
-- ♿ Design accessible et responsive
-- 🎨 Application d’un design system cohérent
+- 📅 Table reservation through a dynamic form with validation
+- 🧩 Modular architecture with React components
+- 🧪 Unit tests for booking functionality
+- ♿ Accessible and responsive design (HTML5 + ARIA)
+- 🎨 Consistent design system implementation
 
-## 🚀 Lancer le projet en local
+### 🚀 Run the Project Locally
 
 ```bash
-git clone https://github.com/ton-utilisateur/little-lemon.git
+git clone https://github.com/your-username/little-lemon.git
 cd little-lemon
 npm install
 npm start
