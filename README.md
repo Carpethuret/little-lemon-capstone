@@ -50,3 +50,59 @@ git clone https://github.com/your-username/little-lemon.git
 cd little-lemon
 npm install
 npm start
+
+
+---
+
+## 🇫🇷 Version française
+
+# 🍋 Little Lemon - Capstone Project (Meta Front-End Developer Certificate)
+
+Bienvenue dans le projet **Little Lemon Restaurant Web App**, réalisé dans le cadre du projet final du programme **Meta Front-End Developer**.
+
+## 📌 Présentation
+
+Ce projet a pour objectif de construire une **application web responsive en React** pour le restaurant fictif *Little Lemon*.  
+L'application permet notamment :
+
+- La réservation de tables
+- La consultation du menu
+- Et d'autres fonctionnalités utiles pour les clients
+
+Ce projet de synthèse regroupe toutes les compétences développées tout au long du programme.
+
+## 🧰 Compétences mobilisées
+
+- ✅ HTML sémantique
+- ✅ CSS (Flexbox, Grid, Responsive Design)
+- ✅ JavaScript ES6+
+- ✅ React (composants, props, state, hooks, routing)
+- ✅ UX/UI Design
+- ✅ Accessibilité Web (ARIA, labels, navigation clavier)
+- ✅ Tests unitaires (Jest)
+- ✅ Versioning avec Git & GitHub
+
+## 🛠️ Technologies utilisées
+
+- React (Create React App)
+- JavaScript
+- HTML5 / CSS3
+- Jest (tests unitaires)
+- Git & GitHub
+- Figma (wireframing et prototypage)
+
+## 🧠 Fonctionnalités principales
+
+- 📅 Réservation de table via un formulaire dynamique avec validation
+- 🧩 Architecture modulaire en composants React
+- 🧪 Tests unitaires sur les fonctions de réservation
+- ♿ Design responsive et accessible (HTML5 + ARIA)
+- 🎨 Application d’un design system cohérent
+
+## 🚀 Lancer le projet en local
+
+```bash
+git clone https://github.com/ton-utilisateur/little-lemon.git
+cd little-lemon
+npm install
+npm start
